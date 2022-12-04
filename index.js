@@ -1,5 +1,5 @@
 function laCajaDePandora(numero) {
     // proximamente escribiremos codigo aqui
 
-    let a = "Holala";
+    let a = "Holala soy gabi";
 }
