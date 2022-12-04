@@ -1,5 +1,4 @@
 function laCajaDePandora(numero) {
-  console.log("Hola Mundoooo!!");
 
 }
 
