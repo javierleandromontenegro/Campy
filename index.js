@@ -1,3 +1,8 @@
 function laCajaDePandora(numero) {
-  // proximamente escribiremos codigo aqui
+  console.log("Hola Mundoooo!!");
+
+}
+
+function joaquito(data){
+  console.log("holaaa");
 }
