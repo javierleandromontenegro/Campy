@@ -1,4 +1,7 @@
 function laCajaDePandora(numero) {
-  // proximamente escribiremos codigo aqui
-  const numAlCuadrado = numero * numero;
+
+}
+
+function joaquito(data){
+  console.log("holaaa");
 }
